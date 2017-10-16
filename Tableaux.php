@@ -33,4 +33,7 @@ $tab7= array_diff($tab5,$tab4);
 var_dump($tab7);
 echo "\n";
 
+sort ($tab4);
+var_dump($tab4);
+
 
